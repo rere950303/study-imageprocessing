@@ -5,4 +5,5 @@
 ## Assign 1
 이미지 픽셀의 intensity를 이용하여 CDF, Histogram Equalization, Adaptive Histogram Equalization을 진행한다.
 
-
+## Assign 2
+low-pass filter, high-pass filter, notch filter를 직접 구현한다.
